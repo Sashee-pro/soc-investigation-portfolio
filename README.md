@@ -1,47 +1,14 @@
-# SOC Investigation Portfolio
+# Sashreeka Ranaweera — SOC Investigation Portfolio
 
-> **This repo is a template provided by the [SOC Simulation Project](https://www.skool.com/socsim/about).**
-> 
-> **To use it:** fork this repo to your own GitHub, remove this intro section, and fill in the profile below. Then start dropping your investigation reports in as you complete them.
-
----
-
-### How This Works
-
-Each investigation you complete in the SOC Simulation lab gets its own report file — either the Markdown template (good for GitHub rendering) or the Word doc (good for filling in, converting to PDF, and attaching). Drop them into the relevant folder, update the index table below, and your portfolio builds itself over time.
-
-```
-soc-investigations/
-├── README.md
-├── alerts/
-│   ├── TEMPLATE.md
-│   └── [your completed alert investigations]
-└── bec/
-    ├── TEMPLATE.md
-    └── [your completed BEC investigations]
-```
-
-When someone visits your repo, this README is the first thing they see — so treat the section below as your cover page. Keep it honest and specific. A hiring manager who reads it should know exactly who you are, what you've worked on, and what you're aiming for.
-
----
----
-
-<!-- #################################################################### -->
-<!-- EVERYTHING ABOVE THIS LINE CAN BE DELETED ONCE YOU FORK THIS REPO    -->
-<!-- #################################################################### -->
-
----
-
-# [Your Name] — SOC Investigation Portfolio
-
-**`[City, Country]`** &nbsp;|&nbsp; **`[LinkedIn URL]`** &nbsp;|&nbsp; **`[Email (optional)]`**
+**Melbourne, Australia** &nbsp;|&nbsp; **[LinkedIn](https://linkedin.com/in/sashreeka-ranaweera)** &nbsp;|&nbsp; **sashreekazenith@gmail.com**
 
 ---
 
 ## About Me
 
-<!-- 2-3 sentences. Who are you, where are you coming from, and what are you working toward?
-     Be direct — this isn't a cover letter, it's a quick orientation for whoever is reading. -->
+I am a final-year Bachelor of Information Technology student majoring in Cyber Security at Monash University, with a strong interest in Security Operations Centre (SOC) and Digital Forensics and Incident Response (DFIR).
+
+Through the SOC Simulation Project, I am developing practical experience investigating security alerts, analysing telemetry from enterprise security tools and documenting findings using structured investigative methodologies. My goal is to secure an entry-level SOC or DFIR role and continue building expertise in incident detection, investigation and response.
 
 ---
 
