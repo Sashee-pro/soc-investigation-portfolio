@@ -6,9 +6,7 @@
 
 ## About Me
 
-I am a final-year Bachelor of Information Technology student majoring in Cyber Security at Monash University, with a strong interest in Security Operations Centre (SOC) and Digital Forensics and Incident Response (DFIR).
-
-Through the SOC Simulation Project, I am developing practical experience investigating security alerts, analysing telemetry from enterprise security tools and documenting findings using structured investigative methodologies. My goal is to secure an entry-level SOC or DFIR role and continue building expertise in incident detection, investigation and response.
+Bachelor of Information Technology (Cybersecurity) graduate from Monash University with a strong interest in Security Operations (SOC) and Digital Forensics and Incident Response (DFIR). I gained hands-on experience in secure software development and security testing through my award-winning final-year Industry Experience project and am continuing to build practical SOC skills through alert triage, security investigations, log and telemetry analysis, and incident response using Microsoft Defender for Endpoint, Microsoft Sentinel, KQL, Microsoft Entra ID, and MITRE ATT&CK. My goal is to begin my career in an entry-level SOC, Cybersecurity Analyst, or DFIR role.
 
 ---
 
